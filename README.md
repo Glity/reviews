@@ -7,7 +7,6 @@
   - https://github.com/Glitty/Calender-reservation
   - https://github.com/Glitty/photo-gallery
   - https://github.com/Gliity/people-also-viewed
-  - https://github.com/teamName/repo
 
 ## Table of Contents
 
